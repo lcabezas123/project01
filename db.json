@@ -2,17 +2,17 @@
   "data": [
     {
       "id": 1,
-       "cc": "1065624128"
-        "primer_nombre": "Luis"
-         "segundo_nombre": "Alberto"
-          "primer_apellido": "Cabezas"
-           "segundo_apellido": "Moreno"
-            "RH": "A+"
-             "empresa": "Intexus"
-              "profesion": "IT Consultant"
-               "email": "lcabezas@intexus.com"
-                "estado_carnet": "0"
-                 "comentario": "prueba 01"
+       "cc": "1065624128",
+        "primer_nombre": "Luis",
+         "segundo_nombre": "Alberto",
+          "primer_apellido": "Cabezas",
+           "segundo_apellido": "Moreno",
+            "RH": "A+",
+             "empresa": "Intexus",
+              "profesion": "IT Consultant",
+               "email": "lcabezas@intexus.com",
+                "estado_carnet": "0",
+                 "comentario": "prueba 01",
     }
   ]
 }
