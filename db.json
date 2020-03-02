@@ -1,5 +1,4 @@
-{
-  "posts": [
+[
     {
       "id": 1,
        "cc": "1065624128",
@@ -14,8 +13,4 @@
                 "estado_carnet": "0",
                  "comentario": "prueba 01",
     }
-  ],
-  "profile": {
-    "name": "user"
-  }
-}
+  ]
